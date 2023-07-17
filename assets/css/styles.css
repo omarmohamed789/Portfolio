@@ -291,11 +291,11 @@ img {
   color: var(--first-color-lighter);
 }
 .home__blob{
-  width: 200px;
+  width: 300px;
   fill: var(--first-color);
 }
 .home__blob-img{
-  width: 300px;
+  width: 250px;
 }
 .home__data{
   grid-column: 1/3;
